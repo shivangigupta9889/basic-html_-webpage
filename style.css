@@ -85,18 +85,18 @@ border-right: 1px solid black;
 
 .gap {
     display: flex;
-    flex-direction: column; /* Stack items vertically */
-    justify-content: center; /* Center them vertically */
-    align-items: center; /* Center them horizontally */
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
 }
 
 .gap h3 {
-    margin-bottom: 10px; /* Adds spacing below "Projects" */
+    margin-bottom: 10px;
     font-weight: bold;
 }
 
 .project-item {
-    text-align: center; /* Centers "HTML only Portfolio" */
+    text-align: center; 
 }
 
 .gap-2 {
